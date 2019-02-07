@@ -1,7 +1,5 @@
 """
 An implementation of a state for SubtractSquare.
-
-NOTE: You do not have to run python-ta on this file.
 """
 from typing import Any
 from game_state import GameState
