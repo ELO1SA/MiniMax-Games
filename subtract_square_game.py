@@ -1,7 +1,5 @@
 """
 An implementation of Subtract Square.
-
-NOTE: You do not have to run python-ta on this file.
 """
 from game import Game
 from subtract_square_state import SubtractSquareState
