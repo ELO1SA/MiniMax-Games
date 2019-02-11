@@ -1,11 +1,5 @@
 """
-The module used to play our games.
-
-Note: You do not have to run python_ta on this file.
-You may import your games from A1 (i.e. Chopsticks). However, the minimax
-strategy cannot be used on Chopsticks unless you account for infinite loops.
-(You do not have to worry about this for the assignment: only do it for
-your own curiousity!)
+The module used to play the games.
 """
 from strategy import *
 from typing import Any, Callable
